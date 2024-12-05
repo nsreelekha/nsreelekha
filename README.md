@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @nsreelekha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nsreelekha/nsreelekha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👩‍💻 B.Tech | Mathematics & Computing @ NITMZ
+🌱 Learning Web Development, DSA, and Optimization
+🤝 Looking to collaborate on Web Development and Open-Source Projects
+💡 Passionate about coding, problem-solving, and tech innovation
+📬 Connect: LinkedIn | Portfolio
